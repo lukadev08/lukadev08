@@ -48,9 +48,9 @@
 <h2 align="center">👨‍💻 Top Repositorios 👨‍💻</h2>
   
   <div width="100%" align="center">
-  <a align="left" href="https://github.com/lukadev08/imersao-java-2023" title="Imersao Java 2023"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=lukadev08&repo=imersao-java-2023&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/lukadev08/imersao-java-2023" title="Imersao Java 2023"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lukadev08&repo=imersao-java-2023&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="left" href="https://github.com/lukadev08/SCI-Academia-2023-Prova" title="Prova Academia SCI 2023"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=lukadev08&repo=SCI-Academia-2023-Prova&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/lukadev08/SCI-Academia-2023-Prova" title="Prova Academia SCI 2023"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lukadev08&repo=SCI-Academia-2023-Prova&theme=react&border_color=61dafb&border_radius=10"></a>
   
   
   

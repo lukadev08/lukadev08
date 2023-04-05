@@ -38,7 +38,11 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   </div>
+  
+  <br>
+  <br>
 
+<h1 align='center'>😊<i>Obrigado por visitar!</i>😊</h1>
 <div>
 <img  src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 </div>

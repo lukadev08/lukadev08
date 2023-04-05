@@ -57,7 +57,10 @@
   
 </div>
   <br><br><br><br><br><br><br><br><br>
-
-
+  
+  
+  <h1 align='center'>😊<i>Obrigado por visitar!</i>😊</h1>
+  
+ 
 <img  src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 </div>

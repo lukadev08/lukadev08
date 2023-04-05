@@ -42,7 +42,7 @@
   <br>
   <br>
 
-<h1 align='center'>😊<i>Obrigado por visitar!</i>😊</h1>
+
 <div>
 
 <h2 align="center">👨‍💻 Top Repositorios 👨‍💻</h2>

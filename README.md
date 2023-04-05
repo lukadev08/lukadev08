@@ -14,8 +14,8 @@
 
  <div>
   <a href="https://github.com/lukadev08">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lukadev08&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=lukadev08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=compact&langs_count=16&theme=tokyonight"/>
   
        
 </div>
@@ -35,4 +35,10 @@
   <a href="os"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   <a href="os"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
   
+  ![Snake animation](https://github.com/lukadev08/lukadev08/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
+
+<div>
+<img  src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
+</div>

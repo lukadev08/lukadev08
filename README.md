@@ -44,5 +44,15 @@
 
 <h1 align='center'>😊<i>Obrigado por visitar!</i>😊</h1>
 <div>
+
+<h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
+
+<div width="100%" align="center">
+
+  <a align="left" href="https://github.com/lukadev08/imersao-java-2023" title="Imersao Java 2023"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+
+</div>
+
 <img  src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 </div>

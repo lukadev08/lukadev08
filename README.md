@@ -15,7 +15,7 @@
  <div>
   <a href="https://github.com/lukadev08">
   <img align="center"  height="170em" src="https://github-readme-stats.vercel.app/api?username=lukadev08&count_private=false&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img align="right"  width="500" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=compact&langs_count=16&theme=tokyonight&hide_progress=true"/>
+  <img align="center"  width="500" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=compact&langs_count=16&theme=tokyonight&hide_progress=true"/>
   
        
 </div>

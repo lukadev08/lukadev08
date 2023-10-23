@@ -1,7 +1,3 @@
-<div>
-<img align="right" alt="luka-logo" height="115 " width="115" src="https://cdn.picrew.me/shareImg/org/202304/338224_ev4ZRCQF.png">
-</div>
-
 ### Olá, eu sou Lukas Ferreira 👋 
 
 
@@ -14,8 +10,7 @@
 
  <div>
   <a href="https://github.com/lukadev08">
-  <img align="center"  height="165em" src="https://github-readme-stats.vercel.app/api?username=lukadev08&count_private=false&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img align="center"  height="165m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=compact&langs_count=16&theme=tokyonight&hide_progress=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=donut&langs_count=5&theme=tokyonight&hide_progress=true"/>
   
        
 </div>

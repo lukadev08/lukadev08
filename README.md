@@ -10,7 +10,8 @@
 
  <div>
   <a href="https://github.com/lukadev08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=donut&langs_count=5&theme=tokyonight&hide_progress=true"/>
+  <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=lukadev08&show=reviews&theme=tokyonight"/>
+  <img align="center" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=donut&langs_count=5&theme=tokyonight&hide_progress=false"/>
   
        
 </div>
@@ -30,7 +31,6 @@
   <a href="os"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   <a href="os"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   </div>
   

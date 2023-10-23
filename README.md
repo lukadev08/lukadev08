@@ -10,7 +10,7 @@
 
  <div>
   <a href="https://github.com/lukadev08">
-  <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=lukadev08&show=reviews&theme=tokyonight"/>
+  <img align="left" width="auto" src="https://github-readme-stats.vercel.app/api?username=lukadev08&show=reviews&theme=tokyonight"/>
   <img align="center" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=donut&langs_count=5&theme=tokyonight&hide_progress=false"/>
   
        

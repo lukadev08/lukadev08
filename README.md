@@ -1,17 +1,23 @@
-### Olá, eu sou Lukas Ferreira 👋 
+<div display:inline-block>
+<img align="right" width=180px height=460px src="https://media.tenor.com/vGGUN0CgMaoAAAAC/kawaii-pink.gif">
+ </div>
 
 
-- 🔭 Procurando vaga/estágio para dev
-- 📝 Estudando Java e suas tecnologias
-- 😄 Pronouns: ele/dele
-- ✨ Adoro bichinhos, principalmente gatos
+### 𝙾𝚕𝚊́, 𝚎𝚞 𝚜𝚘𝚞 𝙻𝚞𝚔𝚊𝚜 𝙵𝚎𝚛𝚛𝚎𝚒𝚛𝚊 👋 
+
+- 🔭 𝙿𝚛𝚘𝚌𝚞𝚛𝚊𝚗𝚍𝚘 𝚟𝚊𝚐𝚊/𝚎𝚜𝚝𝚊́𝚐𝚒𝚘 𝚙𝚊𝚛𝚊 𝚍𝚎𝚟
+- 📝 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚍𝚘 𝙹𝚊𝚟𝚊 𝚎 𝚜𝚞𝚊𝚜 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝚎𝚕𝚎/𝚍𝚎𝚕𝚎
+- ✨ 𝙰𝚍𝚘𝚛𝚘 𝚋𝚒𝚌𝚑𝚒𝚗𝚑𝚘𝚜, 𝚙𝚛𝚒𝚗𝚌𝚒𝚙𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚐𝚊𝚝𝚘𝚜
 
 ##
 
+<br>
+
  <div>
   <a href="https://github.com/lukadev08">
-  <img align="left" width="auto" src="https://github-readme-stats.vercel.app/api?username=lukadev08&show=reviews&theme=tokyonight"/>
-  <img align="center" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=donut&langs_count=5&theme=tokyonight&hide_progress=false"/>
+  <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=lukadev08&show=reviews&theme=tokyonight"/>
+  <img align="center" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev08&layout=donut&langs_count=5&theme=tokyonight&hide_progress=false"/>
   
        
 </div>
@@ -24,6 +30,8 @@
   </div>
   
   ##
+
+  
   
   <div>
   <a href = "mailto:luskaf8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -37,7 +45,8 @@
   
 
   </div>
-  
+
+  <br>
   <br>
   <br>
 

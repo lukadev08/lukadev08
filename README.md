@@ -1,5 +1,5 @@
 <div display:inline-block>
-<img align="right" width=180px height=200px src="https://media.tenor.com/vGGUN0CgMaoAAAAC/kawaii-pink.gif">
+<img align="right" width=auto height=200px src="https://media.tenor.com/P-ws1nGtXx8AAAAd/cherry-blossom.gif">
  </div>
 
 

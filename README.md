@@ -1,11 +1,8 @@
-<div display:inline-block>
-<img align="right" width=auto height=185px src="https://media.tenor.com/P-ws1nGtXx8AAAAd/cherry-blossom.gif">
- </div>
-
 
 ### 𝙾𝚕𝚊́, 𝚎𝚞 𝚜𝚘𝚞 𝙻𝚞𝚔𝚊𝚜 𝙵𝚎𝚛𝚛𝚎𝚒𝚛𝚊 👋 
 
 - 📝 𝙹𝚊𝚟𝚊 | Spring | SQL/NoSQL / HTML,CSS,JS
+
 
 ##
 

@@ -53,19 +53,5 @@
   <a  href="https://github.com/lukadev08/imersao-java-2023" title="Imersao Java 2023">
     <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lukadev08&repo=imersao-java-2023&theme=react&border_color=61dafb&border_radius=10"></a>
    
-<br><br>
   
-  <a href="https://github.com/lukadev08/SCI-Academia-2023-Prova" title="Prova Academia SCI 2023">
-    <img align="center"  height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lukadev08&repo=SCI-Academia-2023-Prova&theme=react&border_color=61dafb&border_radius=10"></a>
-    
-</div>
 
-  <br><br><br>
-  
-  <h1 align='center'>😊<i>Obrigado por visitar!</i>😊</h1>
-  
-</div>
-
-<div>
-<img align='left' alt="gifchu" height="400px" width="100%" src="https://i.pinimg.com/originals/ac/b3/9b/acb39b95c7c20ecd720e163ee9d29d8a.gif">
- </div>

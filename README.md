@@ -52,6 +52,8 @@
   <div width="100%" align="center">
   <a  href="https://github.com/lukadev08/imersao-java-2023" title="Imersao Java 2023">
     <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lukadev08&repo=imersao-java-2023&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a  href="https://github.com/lukadev08/Social-App" title="Imersao Java 2023">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lukadev08&repo=Social-App&theme=react&border_color=61dafb&border_radius=10"></a>
    
   
 
